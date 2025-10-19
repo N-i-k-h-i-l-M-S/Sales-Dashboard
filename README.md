@@ -1,6 +1,7 @@
 An interactive sales dashboard created using MS Excel that showcases sales of products of a cafe over the year of 2023.
 
 Data:
+
 The data used in this project is of a cafe that is imaginary. This dataset is from Kaggle and these are not real and are made for public usage. This dataset contains sales data of a cafe for the year of 2023.
 This dataset contains over 10,000 rows and about 8 columns of dirty data. This dataset has data as follows: Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location, Transaction Date.
 The initial dataset is named dirty1.csv in this repository.
@@ -23,11 +24,11 @@ Steps taken to clean:
 
 These values were calculated using these formulas:
 
-Total Spent = Quantity × Price Per Unit
+   Total Spent = Quantity × Price Per Unit
 
-Quantity = Total Spent ÷ Price Per Unit
+   Quantity = Total Spent ÷ Price Per Unit
 
-Price Per Unit = Total Spent ÷ Quantity
+   Price Per Unit = Total Spent ÷ Quantity
 
 7. Finally, filled the missing item names with respect to the price per item unit.
 
