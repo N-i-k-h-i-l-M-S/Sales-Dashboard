@@ -8,8 +8,8 @@ An interactive sales dashboard created using MS Excel that showcases sales of pr
      The initial dataset is named dirty1.csv in this repositiry.
    
 2. Data cleaning: 
-     This dataset was cleaned using a combination of python.
-     Steps taken to clean:
+This dataset was cleaned using a combination of python.
+Steps taken to clean:
         1. imported pandas and numpy.
         2. Loaded the dirty dataset.
         3. Analyzed the dataset, found dirty datas like UNKNOWN, ERROR, and blanks in the dataset across multiple columns.
